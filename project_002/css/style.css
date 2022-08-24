@@ -1,0 +1,71 @@
+body {
+    background-color:#eee3d4; 
+}
+.picture_logo{
+    width: 190px;
+    padding: auto;
+}
+.header {
+    padding: 15px 15px; 
+    border-bottom: 2px solid #b4a49c;
+    width: 825px;
+}
+.navigation {
+    color: #854a10;
+    padding: 20px 12px; 
+    margin-bottom: 15px;
+}
+#title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+div {
+    margin: auto;  
+    text-align: center;
+}
+h2 {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color:#de8e37; 
+}
+h3 {
+    color: #FFFFFF;
+    font-size: 20px;
+    padding-top: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.subtitles {
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.products-container {
+    background-color: #de8e37;
+    width: 850px;
+}
+.paragraphs-publication {
+    text-align: center;
+    line-height: 30px;
+    font-size: 18px;
+    color: #FFFFFF;
+    padding-left: 150px;
+    padding-right: 150px;
+    
+}
+.picture-products {
+    width: 450px;
+    height: 250px;
+    padding: 10px 10px; 
+}
+#contact {
+    color:#000000 ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.contact-container {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+span {
+    font-weight: bold;
+}
